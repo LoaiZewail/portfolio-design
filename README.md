@@ -1,6 +1,6 @@
 # Portfolio
 
-Responsive Personal Portfolio Website
+Responsive Personal Portfolio Website.
 
 ## Technologies used
 
