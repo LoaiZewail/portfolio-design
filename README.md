@@ -4,7 +4,7 @@ Responsive Personal Portfolio Website.
 
 ## Technologies used
 
-HTML - CSS - JavaScript
+HTML5 - CSS3 - JavaScript
 
 ## Screenshots
 
